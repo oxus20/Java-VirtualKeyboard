@@ -8,6 +8,9 @@ In addition, Virtual Keyboard used for the following subjects:
 - Bypass Key Loggers
 - etc.
 
+*Check the file **JavaVirtualKeyboard.java** for the live demo ...*
+
+
 **Important Notes:**
 
 - You must to have an Image named **oxus.PNG** inside the root directory of your project.
@@ -35,6 +38,8 @@ In addition, Virtual Keyboard used for the following subjects:
 
  System.out.println("CapsLock button is " + (isOn ? "on" : "off"));
  ```
+
+*Check the file **ChangeCapsLockStateDemo.java** for the live demo ...*
  
 ## Robot Class
 **java.awt.Robot class** is used to take the control of mouse and keyboard. Once you get the control, you can do any kind of operations related to the mouse and keyboard through your java code. 
@@ -46,6 +51,8 @@ This class is used generally for the purposes of **test automation**, **self-run
 - Mouse control
 - Keyboard control
 - Screen capture.
+
+*Check the file **RobotDemo.java** for the live demo ...*
 
 
 For further information refer to the [http://www.slideshare.net/absherzad/java-virtual-keyboard-using-robot-toolkit-and-jtogglebutton-classes)
